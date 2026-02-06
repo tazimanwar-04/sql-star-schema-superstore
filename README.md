@@ -1,6 +1,6 @@
 # SQL Star Schema – Global Superstore Data Warehouse
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates the design and implementation of a Data Warehouse using a Star Schema model on the Global Superstore dataset.
 
 The objective was to clean raw sales data, perform ETL operations, build dimension and fact tables, and generate analytical insights using SQL.
@@ -18,15 +18,15 @@ This project was completed as part of the Data Analyst Internship – Task 9 (SQ
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Global Superstore Sales Dataset
 - Total Records: ~55,000+
 
 ---
 
-## 🗂️ Data Warehouse Design
+##  Data Warehouse Design
 
-### ⭐ Star Schema Structure
+###  Star Schema Structure
 
 #### Fact Table
 - `fact_sales`
@@ -41,7 +41,7 @@ The fact table stores sales metrics and is connected to dimension tables using s
 
 ---
 
-## 🔄 ETL Process
+##  ETL Process
 
 1. Imported raw CSV data into MySQL
 2. Cleaned and standardized column names
@@ -54,7 +54,7 @@ The fact table stores sales metrics and is connected to dimension tables using s
 
 ---
 
-## 📈 Key Features
+##  Key Features
 - Star Schema implementation
 - Data cleaning and transformation
 - Surrogate key usage
@@ -64,7 +64,7 @@ The fact table stores sales metrics and is connected to dimension tables using s
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File Name | Description |
 |-----------|-------------|
@@ -75,7 +75,7 @@ The fact table stores sales metrics and is connected to dimension tables using s
 
 ---
 
-## 📊 Sample Analysis Performed
+##  Sample Analysis Performed
 - Total Sales by Year
 - Top Customers by Profit
 - Sales by Region
@@ -84,7 +84,7 @@ The fact table stores sales metrics and is connected to dimension tables using s
 
 ---
 
-## ✅ Results
+##  Results
 - Successfully processed ~55,000 records
 - Created normalized dimension tables
 - Built fact table with proper key mapping
@@ -92,7 +92,7 @@ The fact table stores sales metrics and is connected to dimension tables using s
 
 ---
 
-## 🚀 Learning Outcomes
+##  Learning Outcomes
 - Data Warehousing concepts
 - Star Schema modeling
 - ETL workflow
@@ -102,7 +102,7 @@ The fact table stores sales metrics and is connected to dimension tables using s
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Tazim Anwar**
 
 Data Analyst Intern  
@@ -110,7 +110,7 @@ MCA Student
 
 ---
 
-## 📌 Acknowledgment
+##  Acknowledgment
 This project was completed as part of the Data Analyst Internship program by Elevate Labs.
 
 ---
