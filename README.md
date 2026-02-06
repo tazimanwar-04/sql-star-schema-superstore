@@ -7,22 +7,16 @@ The objective was to clean raw sales data, perform ETL operations, build dimensi
 
 This project was completed as part of the Data Analyst Internship – Task 9 (SQL Data Modeling).
 
----
-
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - MySQL
 - MySQL Workbench
 - draw.io / MySQL Reverse Engineering (ER Diagram)
 - Microsoft Excel (CSV Processing)
 - GitHub
 
----
-
 ##  Dataset
 - Global Superstore Sales Dataset
 - Total Records: ~55,000+
-
----
 
 ##  Data Warehouse Design
 
@@ -39,8 +33,6 @@ This project was completed as part of the Data Analyst Internship – Task 9 (SQ
 
 The fact table stores sales metrics and is connected to dimension tables using surrogate keys.
 
----
-
 ##  ETL Process
 
 1. Imported raw CSV data into MySQL
@@ -52,8 +44,6 @@ The fact table stores sales metrics and is connected to dimension tables using s
 7. Validated record counts
 8. Executed analytical queries
 
----
-
 ##  Key Features
 - Star Schema implementation
 - Data cleaning and transformation
@@ -61,8 +51,6 @@ The fact table stores sales metrics and is connected to dimension tables using s
 - Foreign key relationships
 - Analytical reporting
 - Data validation
-
----
 
 ##  Project Files
 
@@ -73,7 +61,6 @@ The fact table stores sales metrics and is connected to dimension tables using s
 | `analysis_outputs.csv` | Output of analytical queries |
 | `README.md` | Project documentation |
 
----
 
 ##  Sample Analysis Performed
 - Total Sales by Year
@@ -82,15 +69,11 @@ The fact table stores sales metrics and is connected to dimension tables using s
 - Monthly Sales Trend
 - Profit by Category
 
----
-
 ##  Results
 - Successfully processed ~55,000 records
 - Created normalized dimension tables
 - Built fact table with proper key mapping
 - Generated business insights using SQL joins
-
----
 
 ##  Learning Outcomes
 - Data Warehousing concepts
@@ -100,20 +83,14 @@ The fact table stores sales metrics and is connected to dimension tables using s
 - Data profiling and cleaning
 - Analytical querying
 
----
-
 ##  Author
 **Tazim Anwar**
 
 Data Analyst Intern  
 MCA Student  
 
----
-
 ##  Acknowledgment
 This project was completed as part of the Data Analyst Internship program by Elevate Labs.
 
----
-
-## 📬 Contact
+##  Contact
 For any queries or collaboration, feel free to connect via GitHub.
